@@ -4,7 +4,7 @@ description: >-
   encontrarás todo lo necesario para formar parte de la comunidad.
 ---
 
-# Ambassadors
+# Bienvenido a Blockdemy Ambassadors
 
 ## ¿Qué es el programa de Ambassadors?
 

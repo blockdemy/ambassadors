@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Ambassadors](README.md)
+* [Bienvenido a Blockdemy Ambassadors](README.md)
 * [Badge Ambassador](badge-bam-ambassador.md)
 * [Comunidad](comunidad-bam.md)
 
