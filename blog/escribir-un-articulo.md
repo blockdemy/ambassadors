@@ -1,2 +1,0 @@
-# Escribir un artículo
-

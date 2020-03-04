@@ -7,9 +7,9 @@ Por lo general, los Meetups suelen ser grupos pequeños pero, para fines logíst
 
 ## Objetivo de un Meetup <a id="en-los-meetups"></a>
 
-* Generamos conocimiento.
-* Exponemos la tecnología.
-* Contrarrestamos la desinformación.
+* Generar conocimiento.
+* Exponer la tecnología.
+* Contrarrestar la desinformación.
 * Llegamos a más comunidades
 
 ### Características de un Meetup

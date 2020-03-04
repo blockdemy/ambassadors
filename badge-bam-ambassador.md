@@ -1,6 +1,8 @@
-# Badge Ambassador
+# Ambassador Badge
 
 ## ¿Cómo obtengo mi reconocimiento como Ambassador? 
+
+
 
 
 

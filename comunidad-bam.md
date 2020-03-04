@@ -1,25 +1,22 @@
-# Comunidad
+# Objetivo del programa Ambassadors
 
-Nuestro principal objetivo es colaborar en la construcción del ecosistema de Blockchain en México y América Latina, a través de nuestra oferta educativa y la organización de eventos, promoviendo así, la construcción colectiva del conocimiento y fortaleciendo la comunidad del ecosistema.
+{% hint style="success" %}
+Llevar iniciativas de educación en tecnologías relacionadas al ecosistema blockchain a todas las ciudades de habla hispana.
+{% endhint %}
+
+Si bien, existen ciudades que actualmente ya están llevando a cabo actividades relacionadas, el objetivo de Blockchain Academy México es brindarles apoyo siendo el conector y facilitador de recursos junto con otros actores del ecosistema para subir el nivel de conversación y calidad del contenido que se imparte o desarrolla.
+
+A través del programa _Ambassadors_, buscamos:
+
+1. Darle a la comunidad de Blockchain Academy México los recursos que necesitan para organizar eventos exitosos de calidad.
+2. Detonar iniciativas que prometan desarrollar talento para educar, inspirar y seguir creciendo el ecosistema.
+3. \#BUIDL - Poner manos a la obra. Desarrollar proyectos.
 
 ## ¿Qué hacemos? 
 
 Sumamos nuestras ideas y proyectos para realizar cursos y meetups de gran calidad que permitan subir el nivel de conversación en el ecosistema de Blockchain y a la vez, permita contrarrestar la desinformación que existe alrededor de la tecnología.
 
-### Proyectos que hemos desarrollado 
-
-* Hackathons organizados por Blockdemy
-* Alianzas estratégicas con nuevos partners que contribuyen a la comunidad y
-
-  tecnología.
-
-* Impactado a diferentes países de Latinoamérica. 
-
-### **Objetivo de nuestros eventos**
-
-Estamos comprometidos con el educar y formar a la comunidad sobre la tecnología Blockchain, este proceso nos permite generar talento con perfiles de negocios, legales, de tendencia y programación. Con nuestros meetups y eventos reflejamos nuestra pasión por la tecnología y el conocimiento, por enseñar aquellas habilidades de programación y desarrollo que se adquieren en el ecosistema.
-
-### **Poner una fotografía de un evento realizado por Blockdemy**
+![](.gitbook/assets/img_3836.JPG)
 
 
 
